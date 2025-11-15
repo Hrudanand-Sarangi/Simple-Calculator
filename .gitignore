@@ -1,0 +1,38 @@
+# Maven build output
+/target/
+
+# Maven wrapper
+mvnw
+mvnw.cmd
+.mvn/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Temporary files
+*.tmp
+
+# Others
+dependency-reduced-pom.xml
+release.properties
+buildNumber.properties
